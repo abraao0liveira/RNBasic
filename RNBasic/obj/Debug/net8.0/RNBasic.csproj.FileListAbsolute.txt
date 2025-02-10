@@ -1,0 +1,14 @@
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\bin\Debug\net8.0\RNBasic.exe
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\bin\Debug\net8.0\RNBasic.deps.json
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\bin\Debug\net8.0\RNBasic.runtimeconfig.json
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\bin\Debug\net8.0\RNBasic.dll
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\bin\Debug\net8.0\RNBasic.pdb
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\RNBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\RNBasic.AssemblyInfoInputs.cache
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\RNBasic.AssemblyInfo.cs
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\RNBasic.csproj.CoreCompileInputs.cache
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\RNBasic.dll
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\refint\RNBasic.dll
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\RNBasic.pdb
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\RNBasic.genruntimeconfig.cache
+C:\Users\abraa\RiderProjects\RNBasic\RNBasic\obj\Debug\net8.0\ref\RNBasic.dll

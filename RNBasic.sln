@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNBasic", "RNBasic\RNBasic.csproj", "{B7F0A522-9C5C-4B5D-8B23-D5490E7348D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F0A522-9C5C-4B5D-8B23-D5490E7348D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F0A522-9C5C-4B5D-8B23-D5490E7348D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F0A522-9C5C-4B5D-8B23-D5490E7348D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F0A522-9C5C-4B5D-8B23-D5490E7348D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
