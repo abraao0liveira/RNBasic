@@ -1,6 +1,8 @@
+using RNBasic.SharedContext;
+
 namespace RNBasic.ContentContext;
 
-public class Module
+public class Module : BaseContent
 {
   public Module()
   {
